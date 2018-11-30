@@ -544,7 +544,6 @@ span.middot {
 	position: static !important;
 	background-color: transparent;
 	background-attachment: fixed;
-	background-position: 0% -30% !important;
 	background-repeat: no-repeat;
 	overflow: hidden;
 }
